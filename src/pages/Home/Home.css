@@ -1,0 +1,10 @@
+.Home {
+  height: calc(100vh - 61px);
+  background-color: #282c34;
+  color: white;
+}
+
+.Home-header {
+  margin: 0;
+  text-align: center;
+}
