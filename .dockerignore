@@ -1,0 +1,17 @@
+/build
+/node_modules
+
+.dockerignore
+.DS_Store
+.env.sample
+.git/
+.gitignore
+.eslintrc.js
+Dockerfile
+LICENSE
+README.md
+yarn.lock
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

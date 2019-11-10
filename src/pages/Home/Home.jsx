@@ -18,7 +18,7 @@ const HomePage = () => {
 
   return (
     <div className="Home">
-      <h1 className="Home-header">EYESUP</h1>
+      <h1 className="Home-header">🙄🙄🙄</h1>
     </div>
   );
 };
